@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE01</string>
+    <string name="restart">Restart</string>
+    <string name="guess_count">Guess Count:</string>
+    <string name="num_guess">None Yet</string>
+    <string-array name="alp_String_Array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+</resources>
